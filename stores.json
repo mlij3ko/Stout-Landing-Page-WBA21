@@ -3,12 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "feature": {
-                "name": "Irish Pub Three Carrots",
-                "address": "Kneza Miloša 16, Beograd 11000",
-                "link": "https://g.page/thethreecarrots?share",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -16,16 +10,16 @@
                     44.80802356109408
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Irish Pub Three Carrots",
+                "address": "Kneza Miloša 16, Beograd 11000",
+                "link": "https://g.page/thethreecarrots?share",
+                "tap": "Točeno",
+                "storeid": "1"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Zaokret",
-                "address": "Cetinjska 15, Beograd 11000",
-                "link": "https://g.page/zaokret?share",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -33,16 +27,16 @@
                     44.81732110291087
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Zaokret",
+                "address": "Cetinjska 15, Beograd 11000",
+                "link": "https://g.page/zaokret?share",
+                "tap": "Točeno",
+                "storeid": "2"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Sprat ",
-                "address": "Cetinjska 15, Beograd 11000",
-                "link": "https://goo.gl/maps/qHcPWiRGFDm3ewut9",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -50,16 +44,16 @@
                     44.81732072577662
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Sprat ",
+                "address": "Cetinjska 15, Beograd 11000",
+                "link": "https://goo.gl/maps/qHcPWiRGFDm3ewut9",
+                "tap": "Točeno",
+                "storeid": "3"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Kafeterija ZRNO NS",
-                "address": "Bulevar Kralja Petra I 32, Novi Sad 21000",
-                "link": "https://goo.gl/maps/jzGLMTgyBJd6iXK96",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -67,16 +61,16 @@
                     45.260250630734454
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Kafeterija ZRNO NS",
+                "address": "Bulevar Kralja Petra I 32, Novi Sad 21000",
+                "link": "https://goo.gl/maps/jzGLMTgyBJd6iXK96",
+                "tap": "Flaša",
+                "storeid": "4"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Gradska Pivnica",
-                "address": "Njegoševa 6, Novi Sad",
-                "link": "https://goo.gl/maps/BYNBAz8zss4iu7NW6",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -84,16 +78,16 @@
                     45.25592967364387
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Gradska Pivnica",
+                "address": "Njegoševa 6, Novi Sad",
+                "link": "https://goo.gl/maps/BYNBAz8zss4iu7NW6",
+                "tap": "Točeno",
+                "storeid": "5"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Samo Pivo",
-                "address": "Balkanska 13, Beograd 11000",
-                "link": "https://goo.gl/maps/yjvboMB8CTLXJ9v99",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -101,16 +95,16 @@
                     44.81169179536276
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Samo Pivo",
+                "address": "Balkanska 13, Beograd 11000",
+                "link": "https://goo.gl/maps/yjvboMB8CTLXJ9v99",
+                "tap": "Točeno",
+                "storeid": "6"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivski zabavnik",
-                "address": "Bulevar kralja Aleksandra 136, Beograd",
-                "link": "https://g.page/pivski-zabavnik?share",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -118,16 +112,16 @@
                     44.803240186647265
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivski zabavnik",
+                "address": "Bulevar kralja Aleksandra 136, Beograd",
+                "link": "https://g.page/pivski-zabavnik?share",
+                "tap": "Točeno",
+                "storeid": "7"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Mazut",
-                "address": "Svetozara Miletića br 3, Novi Sad 21000",
-                "link": "https://goo.gl/maps/YnY4gKPZuEatF6eh9",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -135,16 +129,16 @@
                     45.25660265354687
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Mazut",
+                "address": "Svetozara Miletića br 3, Novi Sad 21000",
+                "link": "https://goo.gl/maps/YnY4gKPZuEatF6eh9",
+                "tap": "Točeno",
+                "storeid": "8"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Merkator Hipermarket",
-                "address": "Bulevar umetnosti 4, Novi Beograd 11070",
-                "link": "https://goo.gl/maps/GuSEqHDL8p6PRY3E7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -152,16 +146,16 @@
                     44.82121060180899
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Merkator Hipermarket",
+                "address": "Bulevar umetnosti 4, Novi Beograd 11070",
+                "link": "https://goo.gl/maps/GuSEqHDL8p6PRY3E7",
+                "tap": "Flaša",
+                "storeid": "9"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Mazut BEER SHOP ",
-                "address": "Svetozara Miletića 53, Novi Sad 21000",
-                "link": "https://goo.gl/maps/SiBcDewxxGpoWDn87",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -169,16 +163,16 @@
                     45.257979372657275
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Mazut BEER SHOP ",
+                "address": "Svetozara Miletića 53, Novi Sad 21000",
+                "link": "https://goo.gl/maps/SiBcDewxxGpoWDn87",
+                "tap": "Točeno",
+                "storeid": "10"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Tri",
-                "address": "Svetogorska 46, Beograd 11000",
-                "link": "https://g.page/restorantri?share",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -186,16 +180,16 @@
                     44.81270623948939
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Tri",
+                "address": "Svetogorska 46, Beograd 11000",
+                "link": "https://g.page/restorantri?share",
+                "tap": "Točeno",
+                "storeid": "11"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Srpska Kuća Piva NBGD",
-                "address": "Antifašističke borbe 33, Novi Beograd 11070",
-                "link": "https://goo.gl/maps/jYkafRJkHTnjMjGQ7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -203,16 +197,16 @@
                     44.81231994693527
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Srpska Kuća Piva NBGD",
+                "address": "Antifašističke borbe 33, Novi Beograd 11070",
+                "link": "https://goo.gl/maps/jYkafRJkHTnjMjGQ7",
+                "tap": "Točeno",
+                "storeid": "12"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Krafter",
-                "address": "Strahinjića Bana 44, Beograd",
-                "link": "https://goo.gl/maps/pGjCg7szWG6q7hRV9",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -220,16 +214,16 @@
                     44.82218659585183
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Krafter",
+                "address": "Strahinjića Bana 44, Beograd",
+                "link": "https://goo.gl/maps/pGjCg7szWG6q7hRV9",
+                "tap": "Točeno",
+                "storeid": "13"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Merkator Roda-Airport",
-                "address": "Đorđa Stanojevića 35, Beograd 11070",
-                "link": "https://goo.gl/maps/tmgRsBDppB1W5w1n6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -237,16 +231,16 @@
                     44.80990048392218
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Merkator Roda-Airport",
+                "address": "Đorđa Stanojevića 35, Beograd 11070",
+                "link": "https://goo.gl/maps/tmgRsBDppB1W5w1n6",
+                "tap": "Flaša",
+                "storeid": "14"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Miners Raft",
-                "address": "Savski kej, Beograd",
-                "link": "https://goo.gl/maps/zXrXteEnyc26hBvm7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -254,16 +248,16 @@
                     44.795210661692295
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Miners Raft",
+                "address": "Savski kej, Beograd",
+                "link": "https://goo.gl/maps/zXrXteEnyc26hBvm7",
+                "tap": "Točeno",
+                "storeid": "15"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea London",
-                "address": "Kralja Milana 28, Beograd",
-                "link": "https://goo.gl/maps/dyeY8GqmHtYdT8Qt5",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -271,16 +265,16 @@
                     44.80854362684728
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea London",
+                "address": "Kralja Milana 28, Beograd",
+                "link": "https://goo.gl/maps/dyeY8GqmHtYdT8Qt5",
+                "tap": "Flaša",
+                "storeid": "16"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivodrom",
-                "address": "Radoslava Grujića 24, Beograd 11000",
-                "link": "https://g.page/pivodrom-beograd?share",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -288,16 +282,16 @@
                     44.80064107909943
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivodrom",
+                "address": "Radoslava Grujića 24, Beograd 11000",
+                "link": "https://g.page/pivodrom-beograd?share",
+                "tap": "Točeno",
+                "storeid": "17"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Samo Pivo SU",
-                "address": "Petra Drapšina 7, Subotica 24000",
-                "link": "https://goo.gl/maps/EUZpANStSk7HMDwR9",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -305,16 +299,16 @@
                     46.0987508910224
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Samo Pivo SU",
+                "address": "Petra Drapšina 7, Subotica 24000",
+                "link": "https://goo.gl/maps/EUZpANStSk7HMDwR9",
+                "tap": "Točeno",
+                "storeid": "18"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea DORĆOL BG",
-                "address": "Cara Dušana 36-40, Beograd 11000",
-                "link": "https://goo.gl/maps/up1VbyCVYac4HepH7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -322,16 +316,16 @@
                     44.823299023567486
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea DORĆOL BG",
+                "address": "Cara Dušana 36-40, Beograd 11000",
+                "link": "https://goo.gl/maps/up1VbyCVYac4HepH7",
+                "tap": "Flaša",
+                "storeid": "19"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Lift",
-                "address": "Cetinjska 15, Beograd 11000",
-                "link": "https://goo.gl/maps/t5dBhQHFbshRqdCbA",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -339,16 +333,16 @@
                     44.81747095475817
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Lift",
+                "address": "Cetinjska 15, Beograd 11000",
+                "link": "https://goo.gl/maps/t5dBhQHFbshRqdCbA",
+                "tap": "Flaša",
+                "storeid": "20"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivnica Nemir",
-                "address": "Učitelj Tasina 17, Niš 18000",
-                "link": "https://goo.gl/maps/72xLXGhDGatpSbtP7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -356,16 +350,16 @@
                     43.315952456730734
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivnica Nemir",
+                "address": "Učitelj Tasina 17, Niš 18000",
+                "link": "https://goo.gl/maps/72xLXGhDGatpSbtP7",
+                "tap": "Točeno",
+                "storeid": "21"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea ORAČ BEOGRAD",
-                "address": "Makenzijeva 81, Beograd 11000",
-                "link": "https://goo.gl/maps/Vw2vKoUtQDX6akja7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -373,16 +367,16 @@
                     44.79842218238436
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea ORAČ BEOGRAD",
+                "address": "Makenzijeva 81, Beograd 11000",
+                "link": "https://goo.gl/maps/Vw2vKoUtQDX6akja7",
+                "tap": "Flaša",
+                "storeid": "22"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Dobri Dim",
-                "address": "Laze Telečkog 3, Novi Sad 21000",
-                "link": "https://goo.gl/maps/7PcrYmZCkivgxeMU7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -390,16 +384,16 @@
                     45.25630431544082
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Dobri Dim",
+                "address": "Laze Telečkog 3, Novi Sad 21000",
+                "link": "https://goo.gl/maps/7PcrYmZCkivgxeMU7",
+                "tap": "Točeno",
+                "storeid": "23"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivologija",
-                "address": "Milana Jovanovića 14, Beograd",
-                "link": "https://goo.gl/maps/S8Apt5yZgcE4BXYg7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -407,16 +401,16 @@
                     44.76211716706346
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivologija",
+                "address": "Milana Jovanovića 14, Beograd",
+                "link": "https://goo.gl/maps/S8Apt5yZgcE4BXYg7",
+                "tap": "Točeno",
+                "storeid": "24"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea SUPER VIŠNJIČKA BG",
-                "address": "Višnjička 84, Beograd 11060",
-                "link": "https://goo.gl/maps/HWUgXE6cQH31GW8b7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -424,16 +418,16 @@
                     44.81680197909863
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea SUPER VIŠNJIČKA BG",
+                "address": "Višnjička 84, Beograd 11060",
+                "link": "https://goo.gl/maps/HWUgXE6cQH31GW8b7",
+                "tap": "Flaša",
+                "storeid": "25"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea SUPER UŠĆE BEOGRAD",
-                "address": "Bulevar Mihajla Pupina 4, Beograd 11070",
-                "link": "https://goo.gl/maps/sLiTvL7mBP4QcxYn9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -441,16 +435,16 @@
                     44.815412411605394
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea SUPER UŠĆE BEOGRAD",
+                "address": "Bulevar Mihajla Pupina 4, Beograd 11070",
+                "link": "https://goo.gl/maps/sLiTvL7mBP4QcxYn9",
+                "tap": "Flaša",
+                "storeid": "26"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Krigla i Šoljica",
-                "address": "Zaplanjska 86a Belgrade RS, 11010",
-                "link": "https://goo.gl/maps/yQAQQLFjZwavYfvZ7",
-                "tap": "Točeno"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -458,16 +452,16 @@
                     44.766415909914286
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Krigla i Šoljica",
+                "address": "Zaplanjska 86a Belgrade RS, 11010",
+                "link": "https://goo.gl/maps/yQAQQLFjZwavYfvZ7",
+                "tap": "Točeno",
+                "storeid": "27"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Helga's Pub",
-                "address": "Jurija Gagarina 28a, Beograd 11070",
-                "link": "https://g.page/helgaspub?share",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -475,16 +469,16 @@
                     44.80387459786328
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Helga's Pub",
+                "address": "Jurija Gagarina 28a, Beograd 11070",
+                "link": "https://g.page/helgaspub?share",
+                "tap": "Flaša",
+                "storeid": "28"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Merkator Hipermarket NOVI SAD",
-                "address": "Bulеvar oslobođenja 102, Novi Sad 21000",
-                "link": "https://goo.gl/maps/Cyb4eDUp9kC38BHm9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -492,16 +486,16 @@
                     45.24304047073433
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Merkator Hipermarket NOVI SAD",
+                "address": "Bulеvar oslobođenja 102, Novi Sad 21000",
+                "link": "https://goo.gl/maps/Cyb4eDUp9kC38BHm9",
+                "tap": "Flaša",
+                "storeid": "29"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea SUPER BEŽANIJSKA KOSA BEOGRAD",
-                "address": "Partizanske avijacije бб, Beograd 11070",
-                "link": "https://goo.gl/maps/YL8cvh2VTqJoJr3GA",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -509,16 +503,16 @@
                     44.817753821206914
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea SUPER BEŽANIJSKA KOSA BEOGRAD",
+                "address": "Partizanske avijacije бб, Beograd 11070",
+                "link": "https://goo.gl/maps/YL8cvh2VTqJoJr3GA",
+                "tap": "Flaša",
+                "storeid": "30"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea IMMOCENTAR SUPER Beograd",
-                "address": "Gandijeva 21, Beograd 11070",
-                "link": "https://goo.gl/maps/D92rqr9wtj58sTp86",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -526,16 +520,16 @@
                     44.80772677373105
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea IMMOCENTAR SUPER Beograd",
+                "address": "Gandijeva 21, Beograd 11070",
+                "link": "https://goo.gl/maps/D92rqr9wtj58sTp86",
+                "tap": "Flaša",
+                "storeid": "31"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea SUPER BEOGRAÐANKA BEOGRAD",
-                "address": "Palata Beograđanka, suteren, Masarikova 5, Beograd 11000",
-                "link": "https://goo.gl/maps/iRnTCNHfWQfnaEN88",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -543,16 +537,16 @@
                     44.80672334343119
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea SUPER BEOGRAÐANKA BEOGRAD",
+                "address": "Palata Beograđanka, suteren, Masarikova 5, Beograd 11000",
+                "link": "https://goo.gl/maps/iRnTCNHfWQfnaEN88",
+                "tap": "Flaša",
+                "storeid": "32"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Dado Podrum Pića",
-                "address": "Starca Vujadina, Beograd",
-                "link": "https://goo.gl/maps/1RueibHtP9qj1Brh8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -560,16 +554,16 @@
                     44.836658154600556
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Dado Podrum Pića",
+                "address": "Starca Vujadina, Beograd",
+                "link": "https://goo.gl/maps/1RueibHtP9qj1Brh8",
+                "tap": "Flaša",
+                "storeid": "33"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Merkator Roda Stadion TC",
-                "address": "Доње приземље, Zaplanjska 32, Beograd 11010",
-                "link": "https://goo.gl/maps/inpSAFUGCn5kPAUD7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -577,16 +571,16 @@
                     44.77503082758885
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Merkator Roda Stadion TC",
+                "address": "Доње приземље, Zaplanjska 32, Beograd 11010",
+                "link": "https://goo.gl/maps/inpSAFUGCn5kPAUD7",
+                "tap": "Flaša",
+                "storeid": "34"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Gradska Pivnica Terazije",
-                "address": "Terazije 28, Beograd 11000",
-                "link": "https://goo.gl/maps/Laqu7YSsUGoDz6186",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -594,16 +588,16 @@
                     44.81218737243464
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Gradska Pivnica Terazije",
+                "address": "Terazije 28, Beograd 11000",
+                "link": "https://goo.gl/maps/Laqu7YSsUGoDz6186",
+                "tap": "Flaša",
+                "storeid": "35"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivnica Kolonija",
-                "address": "Reljkovićeva 1b, Beograd 180728",
-                "link": "https://goo.gl/maps/D4Y8sbNY3GiyvHBe8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -611,16 +605,16 @@
                     44.75684047445875
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivnica Kolonija",
+                "address": "Reljkovićeva 1b, Beograd 180728",
+                "link": "https://goo.gl/maps/D4Y8sbNY3GiyvHBe8",
+                "tap": "Flaša",
+                "storeid": "36"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Babuška Pab",
-                "address": "Patrijarha Joanikija 7g, Beograd 11000",
-                "link": "https://goo.gl/maps/1vTdocvDx5KDCayF6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -628,16 +622,16 @@
                     44.731856060282304
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Babuška Pab",
+                "address": "Patrijarha Joanikija 7g, Beograd 11000",
+                "link": "https://goo.gl/maps/1vTdocvDx5KDCayF6",
+                "tap": "Flaša",
+                "storeid": "37"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Šesnaest",
-                "address": "Cetinjska 15a, Beograd 11000",
-                "link": "https://goo.gl/maps/4WJqXEWx8Eu2x8pq8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -645,16 +639,16 @@
                     44.81837092788137
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Šesnaest",
+                "address": "Cetinjska 15a, Beograd 11000",
+                "link": "https://goo.gl/maps/4WJqXEWx8Eu2x8pq8",
+                "tap": "Flaša",
+                "storeid": "38"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Brodić ",
-                "address": "Beogradski sajam",
-                "link": "https://goo.gl/maps/fpmjHQ4yq6pdLwaZ7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -662,16 +656,16 @@
                     44.797136686443075
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Brodić ",
+                "address": "Beogradski sajam",
+                "link": "https://goo.gl/maps/fpmjHQ4yq6pdLwaZ7",
+                "tap": "Flaša",
+                "storeid": "39"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Nin",
-                "address": "Vojvode Petra Bojovića 2, Pančevo",
-                "link": "https://goo.gl/maps/SqArTiDApcPExwgd7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -679,16 +673,16 @@
                     44.86853717718842
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Nin",
+                "address": "Vojvode Petra Bojovića 2, Pančevo",
+                "link": "https://goo.gl/maps/SqArTiDApcPExwgd7",
+                "tap": "Flaša",
+                "storeid": "40"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivnica Slad",
-                "address": "Nikole Tesle 11, Pančevo 26101",
-                "link": "https://goo.gl/maps/hAQNM6gGueDtSiWt5",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -696,16 +690,16 @@
                     44.868874246742244
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivnica Slad",
+                "address": "Nikole Tesle 11, Pančevo 26101",
+                "link": "https://goo.gl/maps/hAQNM6gGueDtSiWt5",
+                "tap": "Flaša",
+                "storeid": "41"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Beer Bar Gajba",
-                "address": "Kneza Višeslava 132, Beograd 11000",
-                "link": "https://goo.gl/maps/Rn9mUVZtmkLL95Ui6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -713,16 +707,16 @@
                     44.74909771817994
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Beer Bar Gajba",
+                "address": "Kneza Višeslava 132, Beograd 11000",
+                "link": "https://goo.gl/maps/Rn9mUVZtmkLL95Ui6",
+                "tap": "Flaša",
+                "storeid": "42"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Beerland Pub",
-                "address": "Požeška 138a, Beograd",
-                "link": "https://goo.gl/maps/PBpPoF7b4prkDUGFA",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -730,16 +724,16 @@
                     44.77513593111796
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Beerland Pub",
+                "address": "Požeška 138a, Beograd",
+                "link": "https://goo.gl/maps/PBpPoF7b4prkDUGFA",
+                "tap": "Flaša",
+                "storeid": "43"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Soba 207",
-                "address": "Vojvode Stepe 207, Beograd",
-                "link": "https://goo.gl/maps/yzpXRndJ4s725cDs7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -747,16 +741,16 @@
                     44.77346546164522
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Soba 207",
+                "address": "Vojvode Stepe 207, Beograd",
+                "link": "https://goo.gl/maps/yzpXRndJ4s725cDs7",
+                "tap": "Flaša",
+                "storeid": "44"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Cinema`S Pub Užice",
-                "address": "Žička 40, Užice 31000",
-                "link": "https://goo.gl/maps/JxNkNy385NViFwzQA",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -764,16 +758,16 @@
                     43.85651193625089
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Cinema Pub Užice",
+                "address": "Žička 40, Užice 31000",
+                "link": "https://goo.gl/maps/JxNkNy385NViFwzQA",
+                "tap": "Flaša",
+                "storeid": "45"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Cinema`S Pivnica Kraljevo",
-                "address": "Omladinska 17, Kraljevo",
-                "link": "https://goo.gl/maps/Ubou4JkqRdbhYUP77",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -781,16 +775,16 @@
                     43.72398763378981
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Cinema Pub Kraljevo",
+                "address": "Omladinska 17, Kraljevo",
+                "link": "https://goo.gl/maps/Ubou4JkqRdbhYUP77",
+                "tap": "Flaša",
+                "storeid": "46"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Svaštara",
-                "address": "Dvorište fabrike Kluz, Mite Ružića 8, Beograd 11000",
-                "link": "https://goo.gl/maps/UQhFtrPBrBfxTiCW9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -798,16 +792,16 @@
                     44.79118514729074
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Svaštara",
+                "address": "Dvorište fabrike Kluz, Mite Ružića 8, Beograd 11000",
+                "link": "https://goo.gl/maps/UQhFtrPBrBfxTiCW9",
+                "tap": "Flaša",
+                "storeid": "47"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Enigma Knjaževac",
-                "address": "RS, 19350, Knjaza Miloša 6, Knjaževac",
-                "link": "https://goo.gl/maps/8dv1W1wWiuQNSgai9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -815,16 +809,16 @@
                     43.567189679822846
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Enigma Knjaževac",
+                "address": "RS, 19350, Knjaza Miloša 6, Knjaževac",
+                "link": "https://goo.gl/maps/8dv1W1wWiuQNSgai9",
+                "tap": "Flaša",
+                "storeid": "48"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea Medijana",
-                "address": "Bulevar Medijana 21, Niš 18106",
-                "link": "https://goo.gl/maps/XbzsAM3pzFhTbXKj7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -832,16 +826,16 @@
                     43.31137356136402
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea Medijana",
+                "address": "Bulevar Medijana 21, Niš 18106",
+                "link": "https://goo.gl/maps/XbzsAM3pzFhTbXKj7",
+                "tap": "Flaša",
+                "storeid": "49"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Idea Super Niš",
-                "address": "Bulevar Nemanjića 11b, Niš 18000",
-                "link": "https://goo.gl/maps/a7ktnxr3BpPHUNb69",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -849,16 +843,16 @@
                     43.324484118723916
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Idea Super Niš",
+                "address": "Bulevar Nemanjića 11b, Niš 18000",
+                "link": "https://goo.gl/maps/a7ktnxr3BpPHUNb69",
+                "tap": "Flaša",
+                "storeid": "50"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Kafeterija Gogolj",
-                "address": "Nikolaja Gogolja 38, Beograd",
-                "link": "https://goo.gl/maps/QJrjWd6f7YLBw4Pp8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -866,16 +860,16 @@
                     44.77491186681012
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Kafeterija Gogolj",
+                "address": "Nikolaja Gogolja 38, Beograd",
+                "link": "https://goo.gl/maps/QJrjWd6f7YLBw4Pp8",
+                "tap": "Flaša",
+                "storeid": "51"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Kafeterija CaffeinCookies",
-                "address": "Balkanska 26, Beograd 11000",
-                "link": "https://goo.gl/maps/YV9RgnqNEL4kaYQD6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -883,16 +877,16 @@
                     44.810535664057824
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Kafeterija CaffeinCookies",
+                "address": "Balkanska 26, Beograd 11000",
+                "link": "https://goo.gl/maps/YV9RgnqNEL4kaYQD6",
+                "tap": "Flaša",
+                "storeid": "52"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Bosiljak",
-                "address": "Bežanijska 36, Beograd 11080",
-                "link": "https://g.page/BoslijakPizza?share",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -900,16 +894,16 @@
                     44.844005696748205
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Bosiljak",
+                "address": "Bežanijska 36, Beograd 11080",
+                "link": "https://g.page/BoslijakPizza?share",
+                "tap": "Flaša",
+                "storeid": "53"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Spice",
-                "address": "Žarkovačka 21A, Beograd 11030",
-                "link": "https://g.page/spice-cafe-restaurant-indian?share",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -917,16 +911,16 @@
                     44.76816850896844
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Spice",
+                "address": "Žarkovačka 21A, Beograd 11030",
+                "link": "https://g.page/spice-cafe-restaurant-indian?share",
+                "tap": "Flaša",
+                "storeid": "54"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Super Donkey",
-                "address": "Vlajkovićeva 25, Beograd 11000",
-                "link": "https://goo.gl/maps/APjExyAecdDtxWAr7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -934,16 +928,16 @@
                     44.81463800523731
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Super Donkey",
+                "address": "Vlajkovićeva 25, Beograd 11000",
+                "link": "https://goo.gl/maps/APjExyAecdDtxWAr7",
+                "tap": "Flaša",
+                "storeid": "55"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Telma",
-                "address": "Mišarska 7, Beograd 11000",
-                "link": "https://g.page/telma-bar-restaurant?share",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -951,16 +945,16 @@
                     44.80666924258624
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Telma",
+                "address": "Mišarska 7, Beograd 11000",
+                "link": "https://g.page/telma-bar-restaurant?share",
+                "tap": "Flaša",
+                "storeid": "56"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Bookastore",
-                "address": "Cara Lazara 12, Beograd",
-                "link": "https://goo.gl/maps/JjgzTEiUCRFhDAbN9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -968,16 +962,16 @@
                     44.81798884248524
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Bookastore",
+                "address": "Cara Lazara 12, Beograd",
+                "link": "https://goo.gl/maps/JjgzTEiUCRFhDAbN9",
+                "tap": "Flaša",
+                "storeid": "57"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Bookastore 2",
-                "address": "Cara Dušana 68, Beograd 11000",
-                "link": "https://goo.gl/maps/5XwR7z8oyx83cwrBA",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -985,16 +979,16 @@
                     44.82144237089602
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Bookastore 2",
+                "address": "Cara Dušana 68, Beograd 11000",
+                "link": "https://goo.gl/maps/5XwR7z8oyx83cwrBA",
+                "tap": "Flaša",
+                "storeid": "58"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Škripa",
-                "address": "Jevrejska 1, Novi Sad 21000",
-                "link": "https://goo.gl/maps/GjjCRMQAdFbR6FzT9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1002,16 +996,16 @@
                     45.25371593194654
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Škripa",
+                "address": "Jevrejska 1, Novi Sad 21000",
+                "link": "https://goo.gl/maps/GjjCRMQAdFbR6FzT9",
+                "tap": "Flaša",
+                "storeid": "59"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Pivoteka 77",
-                "address": "Bulevar kralja Petra I 89, Novi Sad",
-                "link": "https://goo.gl/maps/7jzbuMF3LWug8SfZ7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1019,16 +1013,16 @@
                     45.2590496375435
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Pivoteka 77",
+                "address": "Bulevar kralja Petra I 89, Novi Sad",
+                "link": "https://goo.gl/maps/7jzbuMF3LWug8SfZ7",
+                "tap": "Flaša",
+                "storeid": "60"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Zbrka Bar",
-                "address": "Lazarevac",
-                "link": "https://goo.gl/maps/x2kBfjxMJWVa4JNC6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1036,16 +1030,16 @@
                     44.385409048564654
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Zbrka Bar",
+                "address": "Lazarevac",
+                "link": "https://goo.gl/maps/x2kBfjxMJWVa4JNC6",
+                "tap": "Flaša",
+                "storeid": "61"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Burgerator",
-                "address": "Karađorđeva 43, Lazarevac 11550",
-                "link": "https://goo.gl/maps/P6NS2wxpbiW5Yw2t8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1053,16 +1047,16 @@
                     44.381725999749776
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Burgerator",
+                "address": "Karađorđeva 43, Lazarevac 11550",
+                "link": "https://goo.gl/maps/P6NS2wxpbiW5Yw2t8",
+                "tap": "Flaša",
+                "storeid": "62"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "La Taqueria",
-                "address": "Gračanička 7, Beograd",
-                "link": "https://goo.gl/maps/jc5zJfzDt9R1MLBb8",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1070,16 +1064,16 @@
                     44.81798502354171
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "La Taqueria",
+                "address": "Gračanička 7, Beograd",
+                "link": "https://goo.gl/maps/jc5zJfzDt9R1MLBb8",
+                "tap": "Flaša",
+                "storeid": "63"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Fri Kafeterija Užice",
-                "address": "Dečanska 21, Užice 31000",
-                "link": "https://goo.gl/maps/FYK2uDPR2Em61kux7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1087,16 +1081,16 @@
                     43.855230412102124
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Fri Kafeterija Užice",
+                "address": "Dečanska 21, Užice 31000",
+                "link": "https://goo.gl/maps/FYK2uDPR2Em61kux7",
+                "tap": "Flaša",
+                "storeid": "64"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Casa de Vinos",
-                "address": "Jovanke Jeftanović 36, Zlatibor",
-                "link": "https://goo.gl/maps/mHdRzmbSxRGeJeus6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1104,16 +1098,16 @@
                     43.72887978535627
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Casa de Vinos",
+                "address": "Jovanke Jeftanović 36, Zlatibor",
+                "link": "https://goo.gl/maps/mHdRzmbSxRGeJeus6",
+                "tap": "Flaša",
+                "storeid": "65"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Malabar",
-                "address": "Jurija Gagarina, Beograd",
-                "link": "https://goo.gl/maps/a1UijnZHVo8PomSt7",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1121,16 +1115,16 @@
                     44.802325231430004
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Malabar",
+                "address": "Jurija Gagarina, Beograd",
+                "link": "https://goo.gl/maps/a1UijnZHVo8PomSt7",
+                "tap": "Flaša",
+                "storeid": "66"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Zona 9 Čačak",
-                "address": "Dr. Dragiše Mišovića 13, Čačak 32000",
-                "link": "https://goo.gl/maps/k5xhokJfZQ4yUgch9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1138,16 +1132,16 @@
                     43.88950616458027
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Zona 9 Čačak",
+                "address": "Dr. Dragiše Mišovića 13, Čačak 32000",
+                "link": "https://goo.gl/maps/k5xhokJfZQ4yUgch9",
+                "tap": "Flaša",
+                "storeid": "67"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Beersheep",
-                "address": "Balkanska 21, Beograd",
-                "link": "https://g.page/Beersheep?share",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1155,16 +1149,16 @@
                     44.811289600542736
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Beersheep",
+                "address": "Balkanska 21, Beograd",
+                "link": "https://g.page/Beersheep?share",
+                "tap": "Flaša",
+                "storeid": "68"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "KC Grad",
-                "address": "Braće Krsmanović 4, Beograd 11000",
-                "link": "https://goo.gl/maps/wmSR9Azx3hGw68CX6",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1172,16 +1166,16 @@
                     44.81432056187205
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Kc Grad",
+                "address": "Braće Krsmanović 4, Beograd 11000",
+                "link": "https://goo.gl/maps/wmSR9Azx3hGw68CX6",
+                "tap": "Flaša",
+                "storeid": "69"
+            }
         },
         {
             "type": "Feature",
-            "feature": {
-                "name": "Best Trafike Bor",
-                "address": "Moše Pijade 96, Bor",
-                "link": "https://goo.gl/maps/h2pAyu7Cqrk36yjL9",
-                "tap": "Flaša"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1189,7 +1183,13 @@
                     44.06921113635289
                 ]
             },
-            "properties": {}
+            "properties": {
+                "name": "Best Trafike Bor",
+                "address": "Moše Pijade 96, Bor",
+                "link": "https://goo.gl/maps/h2pAyu7Cqrk36yjL9",
+                "tap": "Flaša",
+                "storeid": "70"
+            }
         }
     ]
 }

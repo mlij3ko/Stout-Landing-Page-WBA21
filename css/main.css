@@ -502,10 +502,29 @@ ul {
     padding: 0 1rem;
 }
 
-.map .mapapp {
+.map #mapapp {
     width: 100%;
     min-height: 400px;
     background-color: var(--color-neutral-dark);
+}
+
+.map .info-window h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.7rem;
+}
+
+.map .info-window .tap {
+    font-family: Salto-Bold;
+    margin-bottom: 0.5rem;
+}
+
+.map .info-window p {
+    margin-bottom: 0.5rem;
+}
+
+.map .info-window a {
+    font-size: 70%;
+    margin-bottom: 0.5rem;
 }
 
 /* Footer */

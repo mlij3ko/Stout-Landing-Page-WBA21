@@ -94,12 +94,12 @@ function initMap() {
     styles: mapStyle,
   });
 
-  map.data.loadGeoJson('stores.json', {idPropertyName: 'storeid'});
+  map.data.loadGeoJson('/stores.json', {idPropertyName: 'storeid'});
 
   map.data.setStyle((feature) => {
     return {
       icon: {
-        url: `/images/salto-marker.png`,
+        url: `/img/salto-marker.png`,
         scaledSize: new google.maps.Size(25, 38),
       },
     };
@@ -115,10 +115,10 @@ function initMap() {
     const tap = event.feature.getProperty('tap');
     const position = event.feature.getGeometry().get();
     const content = sanitizeHTML`
-      <div style="padding: 15px 20px 10px 20px;">
+      <div class="info-window" style="padding: 15px 20px 10px 20px;">
         <h2>${name}</h2>
         <p>${address}</p>
-        <h4>${tap}</h4>
+        <p class="tap">${tap}<p>
         <p><a href="${link}">${link}</a></p>
       </div>
       `;
