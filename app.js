@@ -94,12 +94,12 @@ function initMap() {
     styles: mapStyle,
   });
 
-  map.data.loadGeoJson('/stores.json', {idPropertyName: 'storeid'});
+  map.data.loadGeoJson('./stores.json', {idPropertyName: 'storeid'});
 
   map.data.setStyle((feature) => {
     return {
       icon: {
-        url: `/img/salto-marker.png`,
+        url: `./img/salto-marker.png`,
         scaledSize: new google.maps.Size(25, 38),
       },
     };
@@ -109,6 +109,7 @@ function initMap() {
   const infoWindow = new google.maps.InfoWindow();
 
   map.data.addListener('click', (event) => {
+    console.log('CIPIRIPI')
     const name = event.feature.getProperty('name');
     const link = event.feature.getProperty('link');
     const address = event.feature.getProperty('address');
