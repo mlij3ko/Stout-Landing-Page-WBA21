@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="23.024504"
+   height="42.989857"
+   viewBox="0 0 6.0918997 11.3744"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>plehho</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-4.0043327e-4)">
+    <path
+       fill="currentColor"
+       d="m 5.6927,6.3984004 0.3159,-2.0584 H 4.0334 v -1.3358 c 0,-0.5632 0.276,-1.1122 1.1606,-1.1122 H 6.0919 V 0.13950043 c 0,0 -0.8148,-0.13909999673 -1.5939,-0.13909999673 -1.6267,0 -2.6899,0.98589999673 -2.6899,2.77079996673 v 1.5688 H 0 v 2.0584 H 1.8081 V 11.3748 H 4.0334 V 6.3984004 Z"
+       id="path3929"
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke-width:0.264583" />
+  </g>
+</svg>
