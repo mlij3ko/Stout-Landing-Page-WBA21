@@ -93,6 +93,11 @@ ul {
     list-style-image: url(../img/li-dot.png);
 }
 
+li::marker {
+    display: inline-block;
+    padding-top: 5px;
+}
+
 @media (min-width: 768px) {
 
   h1 {
@@ -486,6 +491,13 @@ ul {
     margin: 5rem auto;
     display: inline-block;
     text-align: center;
+}
+
+.cta .wow {
+    font-family: Salto-Bold;
+    font-size: 115%;
+    letter-spacing: 0.1em;
+    padding: 0 0.1em;
 }
 
 @media (min-width: 768px){
