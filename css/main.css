@@ -394,9 +394,9 @@ a.gtm-medal {
     }
 }
 
-.beer-bullets__medal img:last-child {
+/* .beer-bullets__medal img:last-child {
     margin-top: 0;
-}
+} */
 
 .beer-bullets__bottle {
     text-align: center;
