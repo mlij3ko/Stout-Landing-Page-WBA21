@@ -1203,7 +1203,7 @@
             "properties": {
                 "name": "Pub 1859",
                 "address": "Takovska 40, Gornji Milanovac",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "71"
             }
@@ -1220,7 +1220,7 @@
             "properties": {
                 "name": "Central Inn Zlatibor",
                 "address": "Miladina Pećinara 154",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "72"
             }
@@ -1237,7 +1237,7 @@
             "properties": {
                 "name": "Maša Jezero Zlatibor",
                 "address": "Jezero Zlatibor",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "73"
             }
@@ -1254,7 +1254,7 @@
             "properties": {
                 "name": "Krigla i Cigla BB",
                 "address": "Kneza Milana Obrenovića 8",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "74"
             }
@@ -1271,7 +1271,7 @@
             "properties": {
                 "name": "Grind",
                 "address": "Sjenička 1",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "75"
             }
@@ -1288,7 +1288,7 @@
             "properties": {
                 "name": "Veza",
                 "address": "Venizelosova 20",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "76"
             }
@@ -1305,7 +1305,7 @@
             "properties": {
                 "name": "Pivnica 59",
                 "address": "Trgovačka 59",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "77"
             }
@@ -1322,7 +1322,7 @@
             "properties": {
                 "name": "Pivokratija",
                 "address": "Bulevar Arsenija Čarnojevića 182",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "78"
             }
@@ -1339,7 +1339,7 @@
             "properties": {
                 "name": "Collina Burgers",
                 "address": "Požeška 67a",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "79"
             }
@@ -1356,7 +1356,7 @@
             "properties": {
                 "name": "Burger House",
                 "address": "Kralja Petra 40",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "80"
             }
@@ -1373,7 +1373,7 @@
             "properties": {
                 "name": "Burger House NS",
                 "address": "Bulevar Mihajla Pupina 6, Novi Sad",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "81"
             }
@@ -1390,7 +1390,7 @@
             "properties": {
                 "name": "Burger House Mileševska",
                 "address": "Mileševska 65",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "82"
             }
@@ -1407,7 +1407,7 @@
             "properties": {
                 "name": "Collina NBG",
                 "address": "Bulevar Zorana Đinđića 12v",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "83"
             }
@@ -1424,7 +1424,7 @@
             "properties": {
                 "name": "Collina Centar",
                 "address": "Francuska 11",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "84"
             }
@@ -1441,7 +1441,7 @@
             "properties": {
                 "name": "Collina Vračar",
                 "address": "Dravska 1",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "85"
             }
@@ -1458,7 +1458,7 @@
             "properties": {
                 "name": "BrotherHood",
                 "address": "Žorža Klemensoa 18a",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "86"
             }
@@ -1475,7 +1475,7 @@
             "properties": {
                 "name": "Docker",
                 "address": "Žorža Klemensoa 27b",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "87"
             }
@@ -1492,7 +1492,7 @@
             "properties": {
                 "name": "Gunners",
                 "address": "Braće Jugovića 2a",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "88"
             }
@@ -1509,7 +1509,7 @@
             "properties": {
                 "name": "Loft Promenada",
                 "address": "Tržni Centar Promenada, NS",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "89"
             }
@@ -1526,7 +1526,7 @@
             "properties": {
                 "name": "Loft Biciklana",
                 "address": "Fruškogorska 38",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "90"
             }
@@ -1543,7 +1543,7 @@
             "properties": {
                 "name": "Loft & Craft",
                 "address": "NJegoševa 6, Novi Sad",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "91"
             }
@@ -1560,7 +1560,7 @@
             "properties": {
                 "name": "Loft Factory",
                 "address": "Futoški put 93b",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "92"
             }
@@ -1577,7 +1577,7 @@
             "properties": {
                 "name": "Funk and Soul",
                 "address": "Nikole Spasića 3",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "93"
             }
@@ -1594,7 +1594,7 @@
             "properties": {
                 "name": "Pershoon",
                 "address": "Svetozara Markovića 48",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "94"
             }
@@ -1611,7 +1611,7 @@
             "properties": {
                 "name": "Vilidž Vračar",
                 "address": "Vojvode Dragomira 2",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "95"
             }
@@ -1628,7 +1628,7 @@
             "properties": {
                 "name": "Jam",
                 "address": "Knez Miletina 25-27",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "96"
             }
@@ -1645,7 +1645,7 @@
             "properties": {
                 "name": "Royal Chicken",
                 "address": "Ugrinovačka 2a",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "97"
             }
@@ -1662,7 +1662,7 @@
             "properties": {
                 "name": "Zaga kafeterija",
                 "address": "Prvomajska 110",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "98"
             }
@@ -1679,7 +1679,7 @@
             "properties": {
                 "name": "Antishop",
                 "address": "Cetinjska 15",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "99"
             }
@@ -1696,7 +1696,7 @@
             "properties": {
                 "name": "Šikarica",
                 "address": "Skadarska 22",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "100"
             }
@@ -1713,7 +1713,7 @@
             "properties": {
                 "name": "Republika pub",
                 "address": "Ustanička 246",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "101"
             }
@@ -1730,7 +1730,7 @@
             "properties": {
                 "name": "Doza",
                 "address": "Bulevar Milutina Milankovića 1g",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "102"
             }
@@ -1747,7 +1747,7 @@
             "properties": {
                 "name": "Kvart 25 Ćuprija",
                 "address": "Kneza Miloša, Ćuprija",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "103"
             }
@@ -1764,7 +1764,7 @@
             "properties": {
                 "name": "Square Nine",
                 "address": "Studentski Trg Beograd",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "104"
             }
@@ -1779,9 +1779,9 @@
                 ]
             },
             "properties": {
-                "name": "Srpska kuća piva NBGD",
+                "name": "Skp NBGD",
                 "address": "Antifašističke borbe 33, Novi Beograd 11070",
-                "link": null,
+                "link": "",
                 "tap": "Točeno",
                 "storeid": "105"
             }
@@ -1798,7 +1798,7 @@
             "properties": {
                 "name": "Cohiba Atmoshpere",
                 "address": "Baje Pivljanina 39",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "106"
             }
@@ -1815,7 +1815,7 @@
             "properties": {
                 "name": "Kod brke",
                 "address": "Fruškogorski Put 93a",
-                "link": null,
+                "link": "",
                 "tap": "Flaša",
                 "storeid": "107"
             }
