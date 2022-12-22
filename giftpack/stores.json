@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46039346510042,
+                    44.811253200114855
+                ]
+            },
+            "properties": {
+                "name": "Beersheep",
+                "link": "https://goo.gl/maps/fZBt4UJcXgmY7wzw6",
+                "storeid": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.842812944702324,
+                    45.25441460916567
+                ]
+            },
+            "properties": {
+                "name": "The Box Shop - Pozorišni Trg",
+                "link": "https://goo.gl/maps/7VPUb6YQrjki1KBg9",
+                "storeid": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.849115382904486,
+                    45.25402250061624
+                ]
+            },
+            "properties": {
+                "name": "The Box Shop - Bulevar Mihajla Pupina",
+                "link": "https://goo.gl/maps/72ZyUtNWNVtyQTD68",
+                "storeid": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84202953213125,
+                    45.25798965524535
+                ]
+            },
+            "properties": {
+                "name": "Mazut Shop",
+                "link": "https://goo.gl/maps/JGXuYCimJZDLwXSo7",
+                "storeid": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.470071839333063,
+                    44.80291451473798
+                ]
+            },
+            "properties": {
+                "name": "Vino i Tako to",
+                "link": "https://goo.gl/maps/DgqRqG99fsjDgkqH7",
+                "storeid": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.477176937039165,
+                    44.77243334727229
+                ]
+            },
+            "properties": {
+                "name": "Atlas Wine",
+                "link": "https://goo.gl/maps/FeFZeWaQ59uFrve66",
+                "storeid": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83925608101539,
+                    45.25849689915565
+                ]
+            },
+            "properties": {
+                "name": "Lufi 021",
+                "link": "https://goo.gl/maps/6rZMY9f9ezEcm1fe7",
+                "storeid": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.413773381861727,
+                    44.83668469592199
+                ]
+            },
+            "properties": {
+                "name": "Diskont Dado",
+                "link": "https://goo.gl/maps/NUZwr9ALwwwQN2n69",
+                "storeid": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.415129945768737,
+                    44.76211344398411
+                ]
+            },
+            "properties": {
+                "name": "Pivologija",
+                "link": "https://goo.gl/maps/C2uzu8XLoV5Ndequ6",
+                "storeid": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45926211022787,
+                    44.81384361066079
+                ]
+            },
+            "properties": {
+                "name": "Cerpromet Prizrenska",
+                "link": "https://goo.gl/maps/dCmakpS1khoWDTcY6",
+                "storeid": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.47493008433756,
+                    44.80138720509097
+                ]
+            },
+            "properties": {
+                "name": "Naša Priča Vračar",
+                "link": "https://goo.gl/maps/RNAghx713yitNZ669",
+                "storeid": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.20382698957268,
+                    44.654459471736125
+                ]
+            },
+            "properties": {
+                "name": "Kafeterija 11500",
+                "link": "https://goo.gl/maps/dEMJqARpbCxTLYdL9",
+                "storeid": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.378067827372213,
+                    44.80426466739813
+                ]
+            },
+            "properties": {
+                "name": "Idea MP257 Blok 63",
+                "link": "https://goo.gl/maps/Woc9pqmaPBRHekFi6",
+                "storeid": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.47372968187352,
+                    44.798345277792016
+                ]
+            },
+            "properties": {
+                "name": "Idea MP331 Orač",
+                "link": "https://goo.gl/maps/9ksiuK16Yt4sE2uj8",
+                "storeid": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.463183850603116,
+                    44.80852396544045
+                ]
+            },
+            "properties": {
+                "name": "Idea MP333 London",
+                "link": "https://goo.gl/maps/KPb62kNfDvnLmqVn7",
+                "storeid": "15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.507459536219347,
+                    44.81692810131069
+                ]
+            },
+            "properties": {
+                "name": "Idea MP5332 Super Višnjička",
+                "link": "https://goo.gl/maps/2wwTBjxEnWBE1Th18",
+                "storeid": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45991923703848,
+                    44.82324733295713
+                ]
+            },
+            "properties": {
+                "name": "Idea MP540 Dorćol",
+                "link": "https://goo.gl/maps/Hj33mTyjZpoRoWJx7",
+                "storeid": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45629131717543,
+                    44.80445396238291
+                ]
+            },
+            "properties": {
+                "name": "Idea MP565 Residence",
+                "link": "https://goo.gl/maps/8DT3SKLHzLVU5Qrj6",
+                "storeid": "18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.414844035306626,
+                    44.82080297652151
+                ]
+            },
+            "properties": {
+                "name": "Merkator Hipermarket Beograd",
+                "link": "https://goo.gl/maps/Ykt288ufLmXQAbp56",
+                "storeid": "19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.840941161006985,
+                    45.24296433495673
+                ]
+            },
+            "properties": {
+                "name": "Merkator Hipermarket Novi Sad",
+                "link": "https://goo.gl/maps/1KZq3fVdnHs32dbY7",
+                "storeid": "20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.39712605870116,
+                    44.809344690164224
+                ]
+            },
+            "properties": {
+                "name": "Roda MP428 Fob Novi Beograd",
+                "link": "https://goo.gl/maps/E9bT1NkVzcgB9rnY6",
+                "storeid": "21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.489805595248516,
+                    44.77520698609034
+                ]
+            },
+            "properties": {
+                "name": "Roda MP417 Stadion",
+                "link": "https://goo.gl/maps/ws27x4M5D7dZtHdu9",
+                "storeid": "22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.383105827050024,
+                    44.81778500536008
+                ]
+            },
+            "properties": {
+                "name": "Idea MP139 Bežanijska Kosa",
+                "link": "https://goo.gl/maps/Jr6fLRqTHmdqXfLf8",
+                "storeid": "23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46893348833049,
+                    44.80838479604802
+                ]
+            },
+            "properties": {
+                "name": "Idea MP315 NELT",
+                "link": "https://goo.gl/maps/k7bRH5kdVBGtzgvDA",
+                "storeid": "24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.842951903171976,
+                    45.24900894303445
+                ]
+            },
+            "properties": {
+                "name": "Krivina Kuća Rakije i Vina",
+                "link": "https://goo.gl/maps/1Wda6RtGJgqku7F7A",
+                "storeid": "25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.480045655527093,
+                    44.80309409703171
+                ]
+            },
+            "properties": {
+                "name": "Pivski zabavnik",
+                "link": "https://goo.gl/maps/zwKgWQiCVpNXPqzUA",
+                "storeid": "26"
+            }
+        }
+    ]
+}
