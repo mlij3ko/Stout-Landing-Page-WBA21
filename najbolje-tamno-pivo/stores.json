@@ -45,7 +45,7 @@
                 ]
             },
             "properties": {
-                "name": "Sprat ",
+                "name": "Sprat",
                 "address": "Cetinjska 15, Beograd 11000",
                 "link": "https://goo.gl/maps/qHcPWiRGFDm3ewut9",
                 "tap": "Točeno",
@@ -164,7 +164,7 @@
                 ]
             },
             "properties": {
-                "name": "Mazut BEER SHOP ",
+                "name": "Mazut BEER SHOP",
                 "address": "Svetozara Miletića 53, Novi Sad 21000",
                 "link": "https://goo.gl/maps/SiBcDewxxGpoWDn87",
                 "tap": "Točeno",
@@ -181,7 +181,7 @@
                 ]
             },
             "properties": {
-                "name": "Tri",
+                "name": "Restoran Tri",
                 "address": "Svetogorska 46, Beograd 11000",
                 "link": "https://g.page/restorantri?share",
                 "tap": "Točeno",
@@ -657,7 +657,7 @@
                 ]
             },
             "properties": {
-                "name": "Brodić ",
+                "name": "Brodić",
                 "address": "Beogradski sajam",
                 "link": "https://goo.gl/maps/fpmjHQ4yq6pdLwaZ7",
                 "tap": "Flaša",
@@ -759,7 +759,7 @@
                 ]
             },
             "properties": {
-                "name": "Cinema Pub Užice",
+                "name": "Cinema`S Pub Užice",
                 "address": "Žička 40, Užice 31000",
                 "link": "https://goo.gl/maps/JxNkNy385NViFwzQA",
                 "tap": "Flaša",
@@ -776,7 +776,7 @@
                 ]
             },
             "properties": {
-                "name": "Cinema Pub Kraljevo",
+                "name": "Cinema`S Pivnica Kraljevo",
                 "address": "Omladinska 17, Kraljevo",
                 "link": "https://goo.gl/maps/Ubou4JkqRdbhYUP77",
                 "tap": "Flaša",
@@ -1189,6 +1189,635 @@
                 "link": "https://goo.gl/maps/h2pAyu7Cqrk36yjL9",
                 "tap": "Flaša",
                 "storeid": "70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.458024224701614,
+                    44.025713150788675
+                ]
+            },
+            "properties": {
+                "name": "Pub 1859",
+                "address": "Takovska 40, Gornji Milanovac",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.700462758831602,
+                    43.726422009596035
+                ]
+            },
+            "properties": {
+                "name": "Central Inn Zlatibor",
+                "address": "Miladina Pećinara 154",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70210768878714,
+                    43.72658479065397
+                ]
+            },
+            "properties": {
+                "name": "Maša Jezero Zlatibor",
+                "address": "Jezero Zlatibor",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56664805539018,
+                    43.97099983621385
+                ]
+            },
+            "properties": {
+                "name": "Krigla i Cigla BB",
+                "address": "Kneza Milana Obrenovića 8",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.48403360570318,
+                    44.7993333966346
+                ]
+            },
+            "properties": {
+                "name": "Grind",
+                "address": "Sjenička 1",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.468058938855847,
+                    44.82016200346069
+                ]
+            },
+            "properties": {
+                "name": "Veza",
+                "address": "Venizelosova 20",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.415181295262872,
+                    44.76078331145359
+                ]
+            },
+            "properties": {
+                "name": "Pivnica 59",
+                "address": "Trgovačka 59",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.402683216194266,
+                    44.823099780694626
+                ]
+            },
+            "properties": {
+                "name": "Pivokratija",
+                "address": "Bulevar Arsenija Čarnojevića 182",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "78"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41504832011503,
+                    44.77742930142519
+                ]
+            },
+            "properties": {
+                "name": "Collina Burgers",
+                "address": "Požeška 67a",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.452992398973993,
+                    44.818107675712334
+                ]
+            },
+            "properties": {
+                "name": "Burger House",
+                "address": "Kralja Petra 40",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84522415666543,
+                    45.2531598699335
+                ]
+            },
+            "properties": {
+                "name": "Burger House NS",
+                "address": "Bulevar Mihajla Pupina 6, Novi Sad",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.484321257257232,
+                    44.798252888170836
+                ]
+            },
+            "properties": {
+                "name": "Burger House Mileševska",
+                "address": "Mileševska 65",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.429548488347262,
+                    44.81271147849666
+                ]
+            },
+            "properties": {
+                "name": "Collina NBG",
+                "address": "Bulevar Zorana Đinđića 12v",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.462746768303475,
+                    44.817958276474116
+                ]
+            },
+            "properties": {
+                "name": "Collina Centar",
+                "address": "Francuska 11",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.48889482945143,
+                    44.796864920848066
+                ]
+            },
+            "properties": {
+                "name": "Collina Vračar",
+                "address": "Dravska 1",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.470085330900428,
+                    44.8222371038357
+                ]
+            },
+            "properties": {
+                "name": "BrotherHood",
+                "address": "Žorža Klemensoa 18a",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "86"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.471360891617337,
+                    44.82425187668171
+                ]
+            },
+            "properties": {
+                "name": "Docker",
+                "address": "Žorža Klemensoa 27b",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.459440498958845,
+                    44.8189303923027
+                ]
+            },
+            "properties": {
+                "name": "Gunners",
+                "address": "Braće Jugovića 2a",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.842682764432833,
+                    45.24473073938613
+                ]
+            },
+            "properties": {
+                "name": "Loft Promenada",
+                "address": "Tržni Centar Promenada, NS",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84747645482944,
+                    45.23997849045119
+                ]
+            },
+            "properties": {
+                "name": "Loft Biciklana",
+                "address": "Fruškogorska 38",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.844552531813534,
+                    45.25596562612996
+                ]
+            },
+            "properties": {
+                "name": "Loft & Craft",
+                "address": "NJegoševa 6, Novi Sad",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7999652058194,
+                    45.24563894168215
+                ]
+            },
+            "properties": {
+                "name": "Loft Factory",
+                "address": "Futoški put 93b",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45486782167628,
+                    44.81853505735545
+                ]
+            },
+            "properties": {
+                "name": "Funk and Soul",
+                "address": "Nikole Spasića 3",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46296922842107,
+                    44.803061770458534
+                ]
+            },
+            "properties": {
+                "name": "Pershoon",
+                "address": "Svetozara Markovića 48",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.478624879959636,
+                    44.80001480007814
+                ]
+            },
+            "properties": {
+                "name": "Vilidž Vračar",
+                "address": "Vojvode Dragomira 2",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.471639073826257,
+                    44.818953856314565
+                ]
+            },
+            "properties": {
+                "name": "Jam",
+                "address": "Knez Miletina 25-27",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.404575786095357,
+                    44.84300887550314
+                ]
+            },
+            "properties": {
+                "name": "Royal Chicken",
+                "address": "Ugrinovačka 2a",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.381090120770377,
+                    44.84267577850643
+                ]
+            },
+            "properties": {
+                "name": "Zaga kafeterija",
+                "address": "Prvomajska 110",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.465423209275023,
+                    44.817745481915836
+                ]
+            },
+            "properties": {
+                "name": "Antishop",
+                "address": "Cetinjska 15",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.463715638855668,
+                    44.81683202510621
+                ]
+            },
+            "properties": {
+                "name": "Šikarica",
+                "address": "Skadarska 22",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.513734809406586,
+                    44.7824019993521
+                ]
+            },
+            "properties": {
+                "name": "Republika pub",
+                "address": "Ustanička 246",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.419806257273898,
+                    44.807282399554076
+                ]
+            },
+            "properties": {
+                "name": "Doza",
+                "address": "Bulevar Milutina Milankovića 1g",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.372271552311393,
+                    43.92825299142925
+                ]
+            },
+            "properties": {
+                "name": "Kvart 25 Ćuprija",
+                "address": "Kneza Miloša, Ćuprija",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.456386886094393,
+                    44.81944342781081
+                ]
+            },
+            "properties": {
+                "name": "Square Nine",
+                "address": "Studentski Trg Beograd",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.424031567357133,
+                    44.8123267730444
+                ]
+            },
+            "properties": {
+                "name": "Skp NBGD",
+                "address": "Antifašističke borbe 33, Novi Beograd 11070",
+                "link": "",
+                "tap": "Točeno",
+                "storeid": "105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.454103841910456,
+                    44.762731540214006
+                ]
+            },
+            "properties": {
+                "name": "Cohiba Atmoshpere",
+                "address": "Baje Pivljanina 39",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.798651027216117,
+                    45.24538180698205
+                ]
+            },
+            "properties": {
+                "name": "Kod brke",
+                "address": "Fruškogorski Put 93a",
+                "link": "",
+                "tap": "Flaša",
+                "storeid": "107"
             }
         }
     ]

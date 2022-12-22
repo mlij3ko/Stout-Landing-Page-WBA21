@@ -230,6 +230,35 @@ a.gtm-medal {
   height: auto;
 }
 
+.sticker {
+    position: absolute;
+    background-color: var(--color-secondary-dark);
+    width: 130px;
+    height: 130px;
+    z-index: 10;
+    bottom: -65px;
+    /* right: 100px; */
+    border-radius: 50%;
+}
+
+.sticker__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.sticker p {
+    font-family: Salto-Display, sans-serif;
+    font-size: 2.5rem;
+    color: var(--color-neutral-white);
+    letter-spacing: -0.05em;
+    line-height: 0;
+    color: var(--color-neutral-light);
+    margin-bottom: 0;
+    transform: rotate(-20deg);
+}
+
 @media (orientation: landscape) {
   .hero__title__wrap {
     background-color: transparent;
