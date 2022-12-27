@@ -390,6 +390,21 @@
                 "link": "https://goo.gl/maps/zwKgWQiCVpNXPqzUA",
                 "storeid": "26"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.011385870884844, 
+                    20.915120580035257
+                ]
+            },
+            "properties": {
+                "name": "Sputnik",
+                "link": "https://goo.gl/maps/SACwMxBPLXQcZvgz8",
+                "storeid": "27"
+            }
         }
     ]
 }
