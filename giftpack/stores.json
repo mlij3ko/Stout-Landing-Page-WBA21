@@ -405,6 +405,21 @@
                 "link": "https://goo.gl/maps/SACwMxBPLXQcZvgz8",
                 "storeid": "27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.40540643009458,
+                    44.806465009799574
+                ]
+            },
+            "properties": {
+                "name": "Beerville",
+                "link": "https://goo.gl/maps/5PW1oLym8VSNuMEr5",
+                "storeid": "28"
+            }
         }
     ]
 }
